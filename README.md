@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MorrisMuuoMulitu&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/MorrisMuuoMulitu/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MorrisMuuoMulitu&repo=convoychat" />
 </a>
 
 
