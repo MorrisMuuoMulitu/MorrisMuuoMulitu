@@ -2,6 +2,9 @@
 ### Welcome to my world!
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215dmugp7eoi3t6t7tzwke5ay)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorrisMuuoMulitu&layout=compact)](https://github.com/MorrisMuuoMulitu/github-readme-stats)
+
 <!--
 **MorrisMuuoMulitu/MorrisMuuoMulitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +24,6 @@ Here are some ideas to get you started:
 
 ![Morris' GitHub stats](https://github-readme-stats.vercel.app/api?username=MorrisMuuoMulitu&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorrisMuuoMulitu&layout=compact)](https://github.com/MorrisMuuoMulitu/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
