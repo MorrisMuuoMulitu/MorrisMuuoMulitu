@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my world!
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215dmugp7eoi3t6t7tzwke5ay)
 <!--
 **MorrisMuuoMulitu/MorrisMuuoMulitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorrisMuuoMulitu)](https://git.io/streak-stats)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=215dmugp7eoi3t6t7tzwke5ay)
+
