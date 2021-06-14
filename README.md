@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Morris' GitHub stats](https://github-readme-stats.vercel.app/api?username=MorrisMuuoMulitu&show_icons=true)
+![Morris' GitHub stats](https://github-readme-stats.vercel.app/api?username=MorrisMuuoMulitu&show_icons=true&theme=radical)
+
 
 
