@@ -6,7 +6,7 @@
 ### <div align="center">I'm Morris, a computer science student!🚀</div>  
   
 
-- 🔭 I’m currently working on [MUSA Website](https://github.com/MorrisMuuoMulitu/MUSA-Website)  
+- 🔭 I’m currently working on [MUSA Website](https://musa-makueni.netlify.app/)  
   
 
 - 🌱 I’m currently learning React and Angular  
