@@ -6,10 +6,10 @@
 ### <div align="center">I'm Morris, a computer science student!🚀</div>  
   
 
-- 🔭 I’m currently working on [MUSA Website](https://musa-makueni.netlify.app/)  
+- 🔭 I’m currently working on [Kaiti Greening Champions](https://kaitigreening.org/)  
   
 
-- 🌱 I’m currently learning React and Angular  
+- 🌱 I’m currently learning DS and ML at [ExploreAI Academy](https://www.explore.ai/learn/academy) 
   
 
 - ❓ Ask me about anything Kenyan  
