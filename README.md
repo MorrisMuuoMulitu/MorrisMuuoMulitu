@@ -6,7 +6,7 @@
 ### <div align="center">I'm Morris, a data science student!🚀</div>  
   
 
-- 🔭 I’m currently working on [Kaiti Greening Champions](https://kaitigreening.org/)  
+- 🔭 I’m currently working on [BUS Party](https://busparty.netlify.app/)  
   
 
 - 🌱 I’m currently learning DS and ML at [ExploreAI Academy](https://www.explore.ai/learn/academy) 
