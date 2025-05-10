@@ -6,7 +6,7 @@
 ### <div align="center">I'm Morris, a data science student!🚀</div>  
   
 
-- 🔭 I’m currently working on [BUS Party](https://africapeaceinitiative.org/)  
+- 🔭 I’m currently working on [Africa Peace Initiative](https://africapeaceinitiative.org/)  
   
 
 - 🌱 I’m currently learning DS and ML at [ExploreAI Academy](https://www.explore.ai/learn/academy) 
