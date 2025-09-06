@@ -24,27 +24,6 @@
 
 ---
 
-### 📝 My Blog Posts
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="" target="_blank">
-          <img src="" width="300px" alt="Blog Post 1"/>
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank">
-          <img src="" width="300px" alt="Blog Post 2"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📬 Connect with Me
 
 <p align="center">
@@ -60,7 +39,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorrisMuuoMulitu&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorrisMuuoMulitu&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
 ---
