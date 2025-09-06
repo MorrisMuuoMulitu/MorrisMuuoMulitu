@@ -8,19 +8,19 @@
 
 ---
 
-### <div align="center">🚀 Hey, I'm Morris! A Data Science Enthusiast from Kenya 🇰🇪</div>
+### <div align="center">🚀 Hey, I'm Morris! A Web Developer from Kenya 🇰🇪</div>
 
 <p align="center">
-  I'm passionate about leveraging data to build cool things and solve real-world problems.
+  I'm passionate about building beautiful and functional websites and applications.
 </p>
 
 ---
 
 ### 🌱 Now
 
-- 🔭 I’m currently learning about **Web3** and **Decentralized Finance (DeFi)**.
-- 👯 I’m looking to collaborate on **Open Source projects** related to **Data Science** and **Web3**.
-- 💬 Ask me about anything related to **Kenya**, its culture, or tech scene!
+- 🔭 I’m currently working on a **full-stack MERN application**.
+- 👯 I’m looking to collaborate on **Open Source projects** related to **Web Development**.
+- 💬 Ask me about anything related to **Web Development**, its culture, or tech scene!
 
 ---
 
@@ -65,44 +65,11 @@
 
 ---
 
-### 🚀 My Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="" target="_blank">
-          <img src="" width="300px" alt="Project 1"/>
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank">
-          <img src="" width="300px" alt="Project 2"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="" target="_blank">
-          <img src="" width="300px" alt="Project 3"/>
-        </a>
-      </td>
-      <td>
-        <a href="" target="_blank">
-          <img src="" width="300px" alt="Project 4"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 💻 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,nextjs,tailwind,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,git" />
   </a>
 </p>
 
