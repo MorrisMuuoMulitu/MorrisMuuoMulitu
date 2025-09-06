@@ -2,6 +2,10 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MorrisMuuoMulitu&color=blue" alt="profile views" />
+</p>
+
 ---
 
 ### <div align="center">🚀 Hey, I'm Morris! A Data Science Enthusiast from Kenya 🇰🇪</div>
@@ -12,9 +16,32 @@
 
 ---
 
-- 🔭 **I’m currently contributing to:** [Africa Peace Initiative](https://africapeaceinitiative.org/)
-- 🤔 **Ask me about:** Anything related to Kenya, its culture, or tech scene!
-- ⚡ **Fun fact:** I'm a tabs-over-spaces kind of guy.
+### 🌱 Now
+
+- 🔭 I’m currently learning about **Web3** and **Decentralized Finance (DeFi)**.
+- 👯 I’m looking to collaborate on **Open Source projects** related to **Data Science** and **Web3**.
+- 💬 Ask me about anything related to **Kenya**, its culture, or tech scene!
+
+---
+
+### 📝 My Blog Posts
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="300px" alt="Blog Post 1"/>
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="300px" alt="Blog Post 2"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -33,12 +60,51 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MorrisMuuoMulitu&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorrisMuuoMulitu&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
 ---
 
-### 🎧 What I'm Listening To
+### 🚀 My Projects
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=215dmugp7eoi3t6t7tzwke5ay&cover_image=true&theme=default" />
+  <table>
+    <tr>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="300px" alt="Project 1"/>
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="300px" alt="Project 2"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="300px" alt="Project 3"/>
+        </a>
+      </td>
+      <td>
+        <a href="" target="_blank">
+          <img src="" width="300px" alt="Project 4"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,react,nextjs,tailwind,docker,postgres" />
+  </a>
+</p>
+
+---
+
